@@ -32,3 +32,26 @@
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
 
+### Test Data
+* Source of test data: 
+* Number of rows in test data: 
+* State any differences in columns between training and test data: 
+### Model details
+* Columns used as inputs in the final model
+* Column(s) used as target(s) in the final model
+* Type of model
+* Software used to implement the model
+* Version of the modeling software
+* Hyperparameters or other settings of your model
+### Quantitative analysis
+* Metrics used to evaluate your final model
+* State the final values of the metrics for all data: training, validation, and test data
+* Provide any plots related to your data or final model -- be sure to label the plots!
+### Ethical considerations
+* Describe potential negative impacts of using your model:
+■ Math or software problems
+■ Real-world risks: who, what, when or how
+* Describe potential uncertainties relating to the impacts of using your model:
+■ Math or software problems
+■ Real-world risks: who, what, when or how?
+* Describe any unexpected or results
